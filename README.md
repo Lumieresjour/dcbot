@@ -1,8 +1,2 @@
 # dcbot
-A dedicated music bot example project for Zhycorp Development made by iCrawl
-
-This open sourced project is a dedicated example tutorial for our community's content, feel free to use and modify as good as you like. Written with discord.js and v12 (stable) as the version.
-
-# Features
-Full playback control
-Simple queue system
+Bot musik di Discord adalah program yang memungkinkan pengguna untuk memutar lagu secara online di server Discord. Untuk membuat bot musik di Discord, Anda harus memiliki pengetahuan dasar tentang bahasa pemrograman dan Discord API. Anda dapat membuat bot Anda sendiri dari awal menggunakan bahasa pemrograman seperti Python atau JavaScript, atau Anda dapat menggunakan platform bot musik yang sudah ada seperti Rythm, Groovy, atau FredBoat. Setelah membuat bot, Anda dapat mengundangnya ke server Discord Anda dan mengatur fitur seperti pengaturan daftar putar, perintah kontrol, dan tampilan pesan. Namun, pastikan untuk mematuhi aturan Discord dan hak cipta musik saat menggunakan bot musik di server Anda.
