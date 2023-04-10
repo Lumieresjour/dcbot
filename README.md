@@ -6,4 +6,3 @@ This open sourced project is a dedicated example tutorial for our community's co
 # Features
 Full playback control
 Simple queue system
-We're here to help
